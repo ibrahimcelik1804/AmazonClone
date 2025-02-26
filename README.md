@@ -15,5 +15,5 @@
   <li><strong>Vector Icons</strong> – Esneklik açısından avantaj sağlamak için kullanıldı.</li>
 </ul>
 
-<h2>🎨 Proje Görseli</h2>
-<img src="(https://github.com/ibrahimcelik1804/AmazonClone/blob/main/src/assets/gorsel%C3%8F.gif))" alt="Proje Görseli]" width="600"/>
+<h2>🎨 Proje Görseli</h2>Ï
+<img src="https://github.com/ibrahimcelik1804/AmazonClone/blob/main/src/assets/gorsel%C3%8F.gif" alt="Proje Görseli]" width="600"/>
