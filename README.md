@@ -16,4 +16,4 @@
 </ul>
 
 <h2>🎨 Proje Görseli</h2>
-<img src="https://raw.githubusercontent.com/ibrahimcelik1804/instagram/main/src/assets/Images/gorsel.gif" alt="Proje Görseli" width="600"/>
+<img src="(https://github.com/ibrahimcelik1804/AmazonClone/blob/main/src/assets/gorsel%C3%8F.gif))" alt="Proje Görseli]width="600"/>
